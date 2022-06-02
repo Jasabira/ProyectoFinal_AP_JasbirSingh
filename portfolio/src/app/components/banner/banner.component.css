@@ -1,0 +1,8 @@
+#banner-container{
+    background-image: url(../../../assets/BannerCompu.jpg);
+    height: 100vh;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 55%;
+}
